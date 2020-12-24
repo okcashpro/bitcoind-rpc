@@ -1,10 +1,10 @@
 {
-  "name": "litecoind-rpc",
-  "description": "Litecoin Client Library to connect to Litecoin Core via RPC",
+  "name": "okcashd-rpc",
+  "description": "Okcash Client Library to connect to Okcash Core via RPC",
   "version": "0.7.1",
   "author": {
-    "name": "Stephen Pair",
-    "email": "stephen@bitpay.com"
+    "name": "oktoshi",
+    "email": "devteam@okcash.co"
   },
   "contributors": [
     {
@@ -26,6 +26,10 @@
     {
       "name": "Loshan T",
       "email": "loshan1212@gmail.com"
+    },
+    {
+      "name": "Stephen Pair",
+      "email": "stephen@bitpay.com"
     }
   ],
   "keywords": [
@@ -34,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecoind-rpc"
+    "url": "https://github.com/okcashpro/okcashd-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -53,7 +57,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/litecoin-project/litecoind-rpc/issues"
+    "url": "https://github.com/okcashpro/okcashd-rpc/issues"
   },
-  "homepage": "https://github.com/litecoin-project/litecoind-rpc"
+  "homepage": "https://github.com/okcashpro/okcashd-rpc"
 }
